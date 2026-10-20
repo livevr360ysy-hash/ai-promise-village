@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="AI로 만든 사람 그림: 웃고 있는 아이">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE9D6"/><stop offset="1" stop-color="#F6C9B4"/></linearGradient>
+<radialGradient id="skin" cx=".45" cy=".4" r=".7"><stop offset="0" stop-color="#F9D4B8"/><stop offset="1" stop-color="#E7A982"/></radialGradient>
+<linearGradient id="hair" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4A2E22"/><stop offset="1" stop-color="#2A1812"/></linearGradient>
+<linearGradient id="shirt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4F7BFF"/><stop offset="1" stop-color="#2F55E8"/></linearGradient>
+</defs>
+<rect width="640" height="360" fill="url(#bg)"/>
+<circle cx="110" cy="80" r="46" fill="#FFF3E6" opacity=".7"/><circle cx="560" cy="300" r="70" fill="#FFF3E6" opacity=".5"/>
+<path d="M150 360c8-72 70-108 170-108s162 36 170 108z" fill="url(#shirt)"/>
+<path d="M280 252l40 50 40-50" fill="none" stroke="#1E3FC0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="290" y="206" width="60" height="58" rx="22" fill="#E2A27C"/>
+<ellipse cx="236" cy="170" rx="16" ry="24" fill="#E7A982"/><ellipse cx="404" cy="170" rx="16" ry="24" fill="#E7A982"/>
+<ellipse cx="320" cy="160" rx="88" ry="104" fill="url(#skin)"/>
+<path d="M232 150c-8-70 40-112 100-110 62 2 88 50 76 112-14-36-40-52-84-52-44 0-70 20-92 50z" fill="url(#hair)"/>
+<path d="M236 138c-22 6-30 34-20 62 4-30 14-48 30-58z" fill="url(#hair)"/>
+<path d="M404 138c22 6 30 34 20 62-4-30-14-48-30-58z" fill="url(#hair)"/>
+<path d="M270 138q16-12 36-6" fill="none" stroke="#3A2218" stroke-width="7" stroke-linecap="round"/>
+<path d="M334 132q20-6 36 6" fill="none" stroke="#3A2218" stroke-width="7" stroke-linecap="round"/>
+<ellipse cx="288" cy="164" rx="12" ry="14" fill="#fff"/><ellipse cx="352" cy="164" rx="12" ry="14" fill="#fff"/>
+<circle cx="290" cy="166" r="8" fill="#3B2417"/><circle cx="350" cy="166" r="8" fill="#3B2417"/>
+<circle cx="293" cy="162" r="2.6" fill="#fff"/><circle cx="353" cy="162" r="2.6" fill="#fff"/>
+<path d="M320 170q-6 22 2 30" fill="none" stroke="#C98B68" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="262" cy="200" rx="16" ry="9" fill="#F29A86" opacity=".55"/><ellipse cx="378" cy="200" rx="16" ry="9" fill="#F29A86" opacity=".55"/>
+<path d="M286 218q34 34 68 0" fill="#fff" stroke="#9C4A3A" stroke-width="5" stroke-linejoin="round"/>
+<path d="M300 224q20 12 40 0" fill="none" stroke="#C97A6A" stroke-width="3" stroke-linecap="round"/>
+</svg>
